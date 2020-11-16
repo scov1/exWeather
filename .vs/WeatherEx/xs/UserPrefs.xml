@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{D6332349-E2D7-4E7F-8AC9-53611D330656}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WeatherEx/Weather.cs">
+    <Files>
+      <File FileName="WeatherEx/Program.cs" Line="10" Column="51" />
+      <File FileName="WeatherEx/Weather.cs" Line="6" Column="25" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WeatherEx" expanded="True">
+            <Node name="WeatherEx" expanded="True">
+              <Node name="Weather.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.WeatherEx FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

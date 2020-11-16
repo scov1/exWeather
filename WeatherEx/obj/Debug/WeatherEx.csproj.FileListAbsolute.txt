@@ -1,0 +1,6 @@
+/Users/seda/Projects/WeatherEx/WeatherEx/bin/Debug/WeatherEx.exe
+/Users/seda/Projects/WeatherEx/WeatherEx/bin/Debug/WeatherEx.pdb
+/Users/seda/Projects/WeatherEx/WeatherEx/obj/Debug/WeatherEx.csprojAssemblyReference.cache
+/Users/seda/Projects/WeatherEx/WeatherEx/obj/Debug/WeatherEx.csproj.CoreCompileInputs.cache
+/Users/seda/Projects/WeatherEx/WeatherEx/obj/Debug/WeatherEx.exe
+/Users/seda/Projects/WeatherEx/WeatherEx/obj/Debug/WeatherEx.pdb
